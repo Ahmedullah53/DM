@@ -1,3 +1,4 @@
 Lec3_Vectors = https://web.stanford.edu/~jurafsky/li15/lec3.vector.pdf
 Chapter_6 = https://web.stanford.edu/~jurafsky/slp3/6.pdf
-duplicate_detection_paper = http://computational-linguistics-class.org/term-projects/2018/duplicate-questions.html
+duplicate_detection_steps = http://computational-linguistics-class.org/term-projects/2018/duplicate-questions.html
+paper = https://pdfs.semanticscholar.org/96b8/ddc494ac1ff9599ae161e529ca6cc546b76d.pdf
