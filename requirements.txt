@@ -1,0 +1,5 @@
+numpy=1.17.4
+pandas=0.25.3
+gensim=3.8.1
+nltk=3.4.5
+spacy=2.2.3
